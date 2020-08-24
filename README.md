@@ -3,4 +3,4 @@ Este es un respaldo del GeoJSON obtenido de https://covid19.sinave.gob.mx/corona
 
 # Implementación
 Puedes acceder a traves del siguiente link:
-https://github.com/louiscmm/MX-GeoJSON/blob/master/Mexico_estados.json
+https://louiscmm.github.io/MX-GeoJSON/Mexico_estados.json
