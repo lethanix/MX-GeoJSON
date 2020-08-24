@@ -1,5 +1,7 @@
 # MX-GeoJSON
-Este es un respaldo del GeoJSON obtenido de https://covid19.sinave.gob.mx/coronavirus/Mexico_estados.json 
+Este es un respaldo del GeoJSON obtenido de 
+  https://covid19.sinave.gob.mx/coronavirus/Mexico_estados.json
+el cual otorga la topología de los estados de México.
 
 # Implementación
 Puedes acceder a traves del siguiente link:
