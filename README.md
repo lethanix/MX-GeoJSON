@@ -13,5 +13,5 @@ Respaldo del GeoJSON obtenido del [Gist](https://gist.github.com/diegovalle/5129
 # Implementación
 Puedes acceder a traves de los siguiente links:
 
-*[https://louiscmm.github.io/MX-GeoJSON/Mexico_estados.json](https://louiscmm.github.io/MX-GeoJSON/Mexico_estados.json)
-*[https://louiscmm.github.io/MX-GeoJSON/Mexico_completo.json](https://louiscmm.github.io/MX-GeoJSON/Mexico_estados&municipios.json)
+* [https://louiscmm.github.io/MX-GeoJSON/Mexico_estados.json](https://louiscmm.github.io/MX-GeoJSON/Mexico_estados.json)
+* [https://louiscmm.github.io/MX-GeoJSON/Mexico_completo.json](https://louiscmm.github.io/MX-GeoJSON/Mexico_estados&municipios.json)
